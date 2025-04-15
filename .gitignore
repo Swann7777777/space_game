@@ -363,4 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Don't ignore the lib folder
-!lib/
+!lib/x64/
+!lib/x86/
+!lib/arm64/
